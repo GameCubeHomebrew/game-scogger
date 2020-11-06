@@ -8,3 +8,4 @@ Mirror of Scogger... RIP
 See also:
 
 * [Brewology Mirror](https://wii.brewology.com/downloads/?search=scogger&Submit=Search&page=downloads)
+- [GameCube Homebrew for n00bs](https://coolaj86.com/articles/gamecube-homebrew-guide-for-n00bs/)
